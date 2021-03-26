@@ -1,0 +1,6 @@
+__pycache__/
+*pyc
+.idea/workspace.xml
+db.sqlite3
+todoapp/migrations
+venv
